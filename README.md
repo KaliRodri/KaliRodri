@@ -1,8 +1,11 @@
 ### Olá!! Eu sou Rodrigo Costa
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estou estudando Javascript
+- 🔭 Trabalho com Front-End
+- Front-End: HTML5, CSS3, JavaScript
+- Framework: Bootstrap 5
+- Design e Prototipagem: Figma, Canva
+- Idioma: Ingles Intermediário
 
 
  <div>
