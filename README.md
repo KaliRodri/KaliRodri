@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Rodrigo Costa
 
 
-- 🔭 Trabalho com Front e Back-End
+- 🔭 Desenvolvedor Back-End, Web e Mobile
 - Tecnologias Front-End: HTML5, CSS3, JavaScript, Bootstrap, React.js e React Native
 - Tecnologias Back-End: Node.js, Python
 - Design e Prototipagem: Figma, Canva
@@ -19,8 +19,10 @@
   <img align="center" alt="Kali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kali-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Kali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
+  <img align="center" alt="Kali-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Kali-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Kali-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 </div>
   
   ##
