@@ -1,19 +1,11 @@
 ### Olá!! Eu sou Rodrigo Costa
 
 
-- 🔭 Trabalho com Front-End
-- Front-End: HTML5, CSS3, JavaScript
-- Framework: Bootstrap 5
+- 🔭 Trabalho com Front e Back-End
+- Tecnologias Front-End: HTML5, CSS3, JavaScript, Bootstrap, React.js e React Native
+- Tecnologias Back-End: Node.js, Python
 - Design e Prototipagem: Figma, Canva
 - Idioma: Ingles Intermediário
-
-Projetos: 
-
-- Site criado para a apresentação da loja Visão Segurança Eletrônica. Ainda em desenvolvimento. Pode ser acessado aqui: https://visaosegeletronica.epizy.com/ Criado com Html, Css3, Bootstrap 5 a biblioteca ScrollReveal.
-
-- Aplicativo web criado para calcular a média e quanto você precisa fazer no exame final, criado para uso de alunos e professores da Uneb - Universidade do Estado da Bahia Pode ser acessado aqui: https://kalirodri.github.io/Calculo-Final/
-
-- Pt br: Página de login para TriangLace™ Página de login criada para treinamento de Ui/Ux, front-end e identidade visual, o logotipo também foi criada por mim. Pode ser acessado aqui: https://kalirodri.github.io/Login-Page-TriangLace-/
 
 
  <div>
