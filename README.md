@@ -3,8 +3,8 @@
 
 - 🔭 Desenvolvedor Back-End, Web e Mobile
 - Tecnologias Front-End: HTML5, CSS3, JavaScript, Bootstrap, React.js e React Native
-- Tecnologias Back-End: Node.js, Python
-- Design e Prototipagem: Figma, Canva
+- Tecnologias Back-End: Node.js, Django, Python
+- Design e Prototipagem: Figma, Adobe Photoshop
 - Idioma: Ingles Intermediário
 
 
